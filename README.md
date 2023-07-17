@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![logo](https://github.com/luck-git/luck-git/blob/028f09cd20da1e85718c35a7a47682ccf0f9ccb7/photos/richard%20sanchez(2).png)
 
-- 💬 Ask me about **AWS || JENKINS || TERRAFORM || DOCKER || GIT**
+- 💬 Ask me about **AWS || JENKINS || TERRAFORM || DOCKER || GIT || Kubernetes || Ansible**
 
 - 📫 How to reach me **luckyzbawa420@gmail.com**
 
