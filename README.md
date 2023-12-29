@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **AWS || JENKINS || TERRAFORM || DOCKER || GIT || Kubernetes || Ansible**
 
-- 📫 How to reach me **luckyzbawa420@gmail.com**
+- 📫 How to reach me **abhig1423@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
